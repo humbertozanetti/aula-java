@@ -2,4 +2,6 @@ Teste do curso de Github
 
 Mais uma linha
 
-Adicinei mais uma linha
+Adicionei mais uma linha
+
+Agora mais outra
